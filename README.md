@@ -54,7 +54,9 @@ Passionné par l'informatique et le développement, je conçois des projets conc
 
 ---
 
-### 📫 Me contacter
+### 📫 Me contacter & Liens
 
-- 💼 **Profil GitHub :** [github.com/TomVernierFetu](https://github.com/TomVernierFetu)
-- 📍 **Localisation :** Angers (49) & mobilité régionale / télétravail
+- 🌐 **Portfolio en ligne :** [tomvernierfetu.github.io](https://tomvernierfetu.github.io)
+- 💼 **LinkedIn :** [linkedin.com/in/tomvernierfetu](https://www.linkedin.com/in/tomvernierfetu/)
+- 🐙 **Profil GitHub :** [github.com/TomVernierFetu](https://github.com/TomVernierFetu)
+- 📍 **Localisation :** Angers (49) & agglomération | Mobilité transports Irigo
