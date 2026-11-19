@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Tom Vernier-Fétu
 
 <p align="center">
-  <b>🚀 Développeur Web & Logiciel junior | À la recherche d'une alternance</b><br>
+  <b>🚀 Apprenti Développeur Web & Logiciel (Autodidacte) | À la recherche d'une alternance</b><br>
   📍 Angers, France
 </p>
 
