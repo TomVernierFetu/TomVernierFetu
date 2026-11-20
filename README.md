@@ -9,13 +9,13 @@
 
 ### À propos de moi
 
-Diplômé d'un **Bac Pro CIEL** (Mention Bien) après un passage de 3 mois en **BTS SIO SLAM**, je suis admis à l'**ENI École Informatique** à Angers pour préparer un titre professionnel Bac+2 (RNCP niveau 5).
+Diplômé d'un **Bac Pro CIEL** (Mention Bien) après un passage de 3 mois en **BTS SIO (tronc commun)**, je suis admis à l'**ENI École Informatique (Campus de Nantes)** pour la rentrée de janvier 2027 en titre professionnel Bac+2 (RNCP niveau 5).
 
-- **Alternance recherchée :** contrat d'apprentissage ou de professionnalisation (1 à 2 ans, 18 ans), au rythme de **6 semaines en entreprise pour 2 semaines en formation**.
+- **Alternance recherchée :** contrat d'apprentissage (1 à 2 ans, 18 ans), au rythme de **6 semaines en entreprise pour 2 semaines en formation** sur Angers et son agglomération.
 - **Filières visées selon votre besoin :**
-  - **TSSR (Technicien Supérieur Systèmes et Réseaux) :** appui sur mes expériences terrain au CHU d'Angers (déploiement Zabbix 7.0 LTS pour +1 000 VM, SNMPv3, baies de brassage) et chez D'Accueil (télémétrie IoT sur routeurs 4G Teltonika RUT).
-  - **Développeur Web et Logiciel :** bonnes bases en intégration front-end et SQL, avec pour objectif principal de maîtriser le back-end en entreprise.
-- **Mobilité :** Angers et première couronne en bus et tramway (réseau Irigo), permis B prévu au printemps 2027.
+  - **TSSR (Technicien Supérieur Systèmes et Réseaux) :** appui sur mes expériences terrain au CHU d'Angers (déploiement Zabbix 7.0 LTS pour +1 000 VM, SNMPv3 TLS/PSK, Proxmox, switches, baies de brassage) et chez D'Accueil (routeurs 4G Teltonika RUT, APN/VPN, TPE Ingenico), avec pour objectif d'approfondir l'administration d'infrastructures (Active Directory / GPO, Linux, Windows Server), la virtualisation, la sécurisation réseau (VLAN, pare-feu, VPN) et l'automatisation en PowerShell / Bash (dans une logique d'évolution vers le DevOps).
+  - **Développeur Web et Logiciel :** bonnes bases en intégration front-end et SQL, avec pour objectif de maîtriser le back-end (logique serveur, API, architecture) et de nouveaux frameworks (Tailwind, React, TypeScript).
+- **Mobilité :** Angers et agglomération en bus et tramway (réseau Irigo).
 
 ---
 
